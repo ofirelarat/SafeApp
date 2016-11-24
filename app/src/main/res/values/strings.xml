@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car Imulator</string>
+    <string name="title_activity_home_page">Home Page</string>
+    <string name="title_activity_phone_call">Phone Call</string>
+    <string name="title_activity_sms">SMS</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="title_activity_play_media">Play Media</string>
+    <string name="title_activity_upload_media">Upload Media</string>
+    <string name="title_activity_my_contacts">My Contacts</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="title_activity_my_places">My Places</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
