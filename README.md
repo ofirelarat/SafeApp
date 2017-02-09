@@ -16,3 +16,7 @@ This puts the driver's safety at risk.
 SafeApp it's an android app that use the multimodality approach to give the driver safer solution.
 
 The app built with JAVA in android studio, and using SQLite for connecting local DB to save some informaton such as contacts,places. 
+
+<img src="images/screenshot1.jpg" align="left" height="250" width="150" >
+
+<img src="images/screenshot2.jpg" align="center" height="250" width="150" >
