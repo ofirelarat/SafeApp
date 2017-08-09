@@ -26,10 +26,10 @@ The app built with JAVA in android studio, and using SQLite for connecting local
 
 ## Screenshots
 
- <img src="images/screenshot1.jpg" align="left" height="275" width="200" >
+ <img src="images/screenshot1.jpg" align="left" height="300" width="200" >
 
- <img src="images/screenshot2.jpg" align="center" height="275" width="200" >
+ <img src="images/screenshot2.jpg" align="center" height="300" width="200" >
  
- <img src="images/weather.png" align="left" height="275" width="200" >
+ <img src="images/weather.png" align="left" height="300" width="200" >
  
- <img src="images/note.png" align="center" height="275" width="200" >
+ <img src="images/note.png" align="center" height="300" width="200" >
