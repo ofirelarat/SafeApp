@@ -4,7 +4,7 @@ The app that let use your smartphone while driving.
 
 SafeApp it's an android app that use the multimodality approach to give the driver safer solution.
 
-<img src="images/mutimodalityTriangle.png" align="center" height="250" width="150" >
+<img src="images/mutimodalityTriangle.png" align="center">
 
 
 ## Background
@@ -26,10 +26,10 @@ The app built with JAVA in android studio, and using SQLite for connecting local
 
 ## Screenshots
 
- <img src="images/screenshot1.jpg" align="left" height="250" width="150" >
+ <img src="images/screenshot1.jpg" align="left" height="275" width="200" >
 
- <img src="images/screenshot2.jpg" align="center" height="250" width="150" >
+ <img src="images/screenshot2.jpg" align="center" height="275" width="200" >
  
- <img src="images/weather.png" align="right" height="250" width="150" >
+ <img src="images/weather.png" align="left" height="275" width="200" >
  
- <img src="images/note.png" align="right" height="250" width="150" >
+ <img src="images/note.png" align="center" height="275" width="200" >
