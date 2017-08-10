@@ -26,6 +26,7 @@ The app built with JAVA in android studio, and using SQLite for connecting local
 
 ## Screenshots
 
+<p align="center">
  <img src="images/screenshot1.jpg" align="left" height="300" width="200" >
 
  <img src="images/screenshot2.jpg" align="right" height="300" width="200" >
@@ -33,3 +34,4 @@ The app built with JAVA in android studio, and using SQLite for connecting local
  <img src="images/weather.png" align="left" height="300" width="200" >
  
  <img src="images/note.png" align="right" height="300" width="200" >
+ </p>
