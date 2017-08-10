@@ -12,7 +12,6 @@ Due to the mobile revolution, people tend to use their smartphone while driving 
 browsing the web, sending text message, making calls and more.
 This puts the driver's safety at risk.
 
-The app built with JAVA in android studio, and using SQLite for connecting local DB to save some informaton such as contacts,places. 
 
 ## Featurs
 - Make phonecalls
@@ -23,15 +22,23 @@ The app built with JAVA in android studio, and using SQLite for connecting local
 - Control Media
 
 
-
 ## Screenshots
 
-<p align="center">
  <img src="images/screenshot1.jpg" align="left" height="300" width="200" >
 
- <img src="images/screenshot2.jpg" align="right" height="300" width="200" >
+ <img src="images/screenshot2.jpg" align="center" height="300" width="200" >
  
  <img src="images/weather.png" align="left" height="300" width="200" >
  
- <img src="images/note.png" align="right" height="300" width="200" >
- </p>
+ <img src="images/note.png" align="center" height="300" width="200" >
+
+ 
+> The app built with JAVA in android studio, and using SQLite for connecting local DB to save some informaton such as contacts,places. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
